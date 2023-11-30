@@ -3,6 +3,8 @@ Android Grid Dropdown
 
 Grid-Dropdown is an Android application developed using Kotlin and Java, built with Gradle. The application features a dropdown menu implemented as a `PopupWindow` containing a `GridView`. 
 
+![Alt text](https://github.com/muhammedelsami/Grid-Dropdown/blob/main/app/screen/screenshot.jpg)
+
 ## Features
 
 - A `TextInputLayout` with an `AutoCompleteTextView` that displays a dropdown menu when clicked.
