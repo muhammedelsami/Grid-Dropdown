@@ -24,4 +24,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
+[MIT](https://github.com/muhammedelsami/Grid-Dropdown/blob/main/LICENSE)
+
+<!---
 [MIT](https://choosealicense.com/licenses/mit/)
+
+-->
